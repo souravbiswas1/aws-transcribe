@@ -21,7 +21,3 @@ def s3_region():
 def s3_key():
 	key = 'XXXXXXXX/{}'
 	return key
-
-# def audio_path():
-# 	path = 'https://visitingcardpoc-dev.s3.ap-south-1.amazonaws.com/audio/'
-# 	return path
